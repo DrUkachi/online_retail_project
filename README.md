@@ -1,6 +1,3 @@
-# online_retail_project
-This repository contains the completion of a data science project concerning carrying out data analysis and predictive analytics on online retail data
-
 # Predictive Analytics : Predict the weekly aggregated sales four weeks in advance
 <br>
  <h2> Dataset description and source </h2>
