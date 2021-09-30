@@ -43,4 +43,4 @@ In this step, the time-series forecasting was carried out. Here, several algorit
 <hr>
 This project was carried out using Python. The codes and steps taken were properly documented in their respective Jupyter Notebooks. The project was carried out so that the corresponding codes can be seen with the documentations as certain questions were answered using these visualisations.
 
-The required libraries for complete implementation can be found in the <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Requirements.txt'>requirements</a> file.
+The required libraries for complete implementation can be found in the <a href='https://github.com/DrUkachi/online_retail_project/blob/main/requirements.txt'>requirements</a> file.
