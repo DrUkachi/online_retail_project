@@ -25,7 +25,9 @@ It contains 8 attributes which are fully described below:
 <hr> 
 In this documentation, a thorough analysis on the data is presented. Also, several time-series algorithms were used to make predictions for the aggregated weekly sales for four weeks ahead. The steps taken to achieve this were based on conventional Data Science Life Cycle:
 
-Step 1:  <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Preprocessing/Preprocessing-and-Cleaning.ipynb'>Data Cleaning and wrangling step</a> This was necessary to achieve cleaned and well-preprocessed data was fed into the analysis step.
+Step 1:  <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Preprocessing/Preprocessing-and-Cleaning.ipynb'>Data Cleaning and wrangling step</a> 
+
+This was necessary to achieve cleaned and well-preprocessed data was fed into the analysis step.
 
 Step 2: <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Visualization/1-Visualization-and-Reports.ipynb'>Exploratory Data Analysis Step</a> 
 
