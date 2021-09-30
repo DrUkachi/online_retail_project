@@ -22,19 +22,19 @@ It contains 8 attributes which are fully described below:
 <hr> 
 In this documentation, a thorough analysis on the data is presented. Also, several time-series algorithms were used to make predictions for the aggregated weekly sales for four weeks ahead. The steps taken to achieve this were based on conventional Data Science Life Cycle:
 
-Step 1:  <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Preprocessing/Preprocessing-and-Cleaning.ipynb'>Data Wrangling Step</a> 
+Step 1:  <a href='https://github.com/DrUkachi/online_retail_project/blob/main/online_retail_data_wrangling.ipynb'>Data Wrangling Step</a> 
 
 This was necessary to achieve cleaned and well-preprocessed data was fed into the analysis step. In this step data cleaning activities were carried, proper and proper data formatting was acheived.
 
-Step 2: <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Data-Visualization/1-Visualization-and-Reports.ipynb'>Exploratory Data Analysis Step</a> 
+Step 2: <a href='https://github.com/DrUkachi/online_retail_project/blob/main/online_retail_EDA.ipynb'>Exploratory Data Analysis Step</a> 
 
 Here, a rigorous inspection of the data is carried out to extract useful insights about the data. This provides an overview of possible patterns that the data provides.
 
-Step 3: <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Customer-Segmentation-and-Association-Rule-Learning/Customer-Segmentation-Clustering.ipynb'>Exploratory Time Series Analysis</a> 
+Step 3: <a href='https://github.com/DrUkachi/online_retail_project/blob/main/online_retail_time_series_analysis.ipynb'>Exploratory Time Series Analysis</a> 
 
 This step involves going deeper into the time series analysis by exploring possible trends, seasonality and errors. In this section test for stationarity  is carried out and several observations are carried out using Auto-correlation Function (ACF) Plots and Partial Auto-correlation plots (PACF)
 
-Step 4: <a href='https://github.com/amir-hojjati/Data-Analysis-Online-Retail-Transactions/blob/master/Customer-Segmentation-and-Association-Rule-Learning/Customer-Segmentation-Clustering.ipynb'>Time Series Forecasting</a>
+Step 4: <a href='https://github.com/DrUkachi/online_retail_project/blob/main/online_retail_time_series_forecasting.ipynb'>Time Series Forecasting</a>
 
 In this step, the time-series forecasting was carried out. Here, several algorithms were used to carry out both univariate and multivariate forecasting. Also, a number of metrics were used to measure the models that gave the best results.
 
