@@ -24,7 +24,7 @@ In this documentation, a thorough analysis on the data is presented. Also, sever
 
 Step 1:  <a href='https://github.com/DrUkachi/online_retail_project/blob/main/online_retail_data_wrangling.ipynb'>Data Wrangling Step</a> 
 
-This was necessary to achieve cleaned and well-preprocessed data was fed into the analysis step. In this step data cleaning activities were carried, proper and proper data formatting was acheived.
+This was necessary to achieve cleaned and well-preprocessed data was fed into the analysis step. In this step data cleaning activities were carried out, and proper data formatting was acheived.
 
 Step 2: <a href='https://github.com/DrUkachi/online_retail_project/blob/main/online_retail_EDA.ipynb'>Exploratory Data Analysis Step</a> 
 
